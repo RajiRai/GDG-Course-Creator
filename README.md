@@ -8,7 +8,7 @@ Unlike single-prompt chatbots, this system uses a **specialized set of agents** 
 - **Structured Outputs:** Strict Pydantic schemas for reliable data flow.
 - **Production Orchestration:** A Sequential Agent pipeline.
 
-![Architecture Diagram](./Archidiagram.png)
+![Architecture Diagram](./Archidia.png)
 
 ## Project Structure
 - `/agents`: Definitions for Researcher, Judge, and Builder.
