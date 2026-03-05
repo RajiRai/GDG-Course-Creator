@@ -17,6 +17,6 @@ Unlike single-prompt chatbots, this system uses a **specialized set of agents** 
 
 ## Getting Started
 1. **Prerequisites:** Python 3.10+, Google Cloud Project with Vertex AI enabled.
-2. **Install Dependencies:** `pip install google-cloud-aiplatform pydantic`
-3. **Set Credentials:** `export GOOGLE_APPLICATION_CREDENTIALS="path/to/your/service-account.json"`
+2. **Install dependencies:** `pip install google-cloud-aiplatform pydantic`
+3. **Set credentials:** `export GOOGLE_APPLICATION_CREDENTIALS="path/to/your/service-account.json"`
 4. **Run:** `python main.py`
