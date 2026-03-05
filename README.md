@@ -4,9 +4,9 @@ This project was developed as part of the **GDG Build with AI Workshop**. It dem
 
 ## Overview
 Unlike single-prompt chatbots, this system uses a **specialized set of agents** to research, validate, and build educational courses. It features:
-- **Iterative Refinement:** A Loop Agent that re-researches if the quality is low.
-- **Structured Outputs:** Strict Pydantic schemas for reliable data flow.
-- **Production Orchestration:** A Sequential Agent pipeline.
+- **Iterative refinement:** A Loop Agent that re-researches if the quality is low.
+- **Structured outputs:** Strict Pydantic schemas for reliable data flow.
+- **Production orchestration:** A Sequential Agent pipeline.
 
 ![Architecture Diagram](./Archidia.png)
 
